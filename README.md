@@ -15,3 +15,4 @@ Bu basit Python aracı, CSV dosyalarını temizleyip normalleştirerek `Temiz_Ve
 git clone https://github.com/kullaniciadi/data_cleaner.git
 cd data_cleaner
 pip install -r requirements.txt
+python main.py
